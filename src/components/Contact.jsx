@@ -4,10 +4,10 @@ import { SiTicktick } from "react-icons/si";
 function Contact() {
   return (
     <div className="flex flex-col items-center gap-6 my-20 " >
-      <p className="flex flex-col justify-center items-center gap-4 text-6xl font-bold ">
+      <div className="flex flex-col justify-center items-center gap-4 text-6xl font-bold ">
         <p>Register For Our Free </p>
         <p> 7-Day Trial now </p>
-      </p>
+      </div>
       <div className="flex  gap-16 text-lg   ">
         <p className="flex gap-4 items-center justify-center"><SiTicktick />No credit card required </p>
         <p className="flex gap-4 items-center justify-center"><SiTicktick /> Cancel any time</p>
