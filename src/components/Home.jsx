@@ -1,4 +1,4 @@
-import Button from "./button"
+import Button from "./Button"
 import home from '../assets/home.png'
 function Home() {
     return (
